@@ -30,4 +30,4 @@ using Font Awesome for the icon.
 
 #### Result
 
-[Feel free to click here for the deployment!](https://github.com/AshrafTajuddin/CSS-Grid-Exercise/)
+[Feel free to click here for the deployment!](https://ashraftajuddin.github.io/CSS-Grid-Exercise-Sign_In-Page/)
