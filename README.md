@@ -27,7 +27,7 @@ using Font Awesome for the icon.
 
 - [Grid- CSS-TRICKS](https://css-tricks.com/snippets/css/complete-guide-grid/)
 - [Grid-MDN](https://developer.mozilla.org/en-US/docs/Glossary/Grid)
-- [SignIn Page from Netflix](https://www.netflix.com/de-en/Login)
+- [Sign In Page from Netflix](https://www.netflix.com/de-en/Login)
 
 #### Result
 
